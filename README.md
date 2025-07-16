@@ -7,20 +7,20 @@ An immersive AR orienteering challenge that combines JROTC-inspired navigation p
 ![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## 🎯 Overview
+## Overview
 
 RunnAR transforms outdoor spaces into competitive orienteering courses using augmented reality. Players navigate to virtual control points using only compass bearings and terrain awareness—no GPS breadcrumbs—encouraging real navigation skills like those taught in JROTC programs.
 
 ### Key Features
 
-- **🗺️ Real-World AR Navigation**: 5 persistent control points spawned in football field-sized areas
-- **🧭 Authentic Tools**: Digital compass and mini-map HUD (no direct GPS paths)
-- **⏱️ Competitive Timing**: Beat personal bests with ghost replay system
-- **🏃‍♂️ Physical Gameplay**: Encourages real movement and terrain awareness
-- **👥 Multiplayer Ready**: 1v1 recapture mode planned (MVP is single-player)
-- **🥽 Cross-Platform**: iPhone 15 Pro Max MVP, XREAL One port planned
+- **Real-World AR Navigation**: 5 persistent control points spawned in football field-sized areas
+- **Authentic Tools**: Digital compass and mini-map HUD (no direct GPS paths)
+- **Competitive Timing**: Beat personal bests with ghost replay system
+- **Physical Gameplay**: Encourages real movement and terrain awareness
+- **Multiplayer Ready**: 1v1 recapture mode planned (MVP is single-player)
+- **Cross-Platform**: iPhone 15 Pro Max MVP, XREAL One port planned
 
-## 🎮 Game Mechanics
+## Game Mechanics
 
 ### Single-Player MVP Mode
 - Navigate to 5 AR control points using compass and map
@@ -42,7 +42,7 @@ RunnAR transforms outdoor spaces into competitive orienteering courses using aug
 - Code verification at each checkpoint
 - Leadership and skill-building focus
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Engine**: Unity 2022.3 LTS/6
 - **AR Framework**: Niantic Lightship ARDK 3.13.0
@@ -52,7 +52,7 @@ RunnAR transforms outdoor spaces into competitive orienteering courses using aug
 - **Networking**: Lightship Shared AR (for multiplayer)
 - **Storage**: PlayerPrefs (MVP), Firebase (planned)
 
-## 🏗️ Architecture
+## Architecture
 
 ### Core Components
 - **Checkpoint Spawner**: Manages 5 persistent AR control points
@@ -67,7 +67,7 @@ RunnAR transforms outdoor spaces into competitive orienteering courses using aug
 - "Invalid path" penalties (through buildings/water)
 - Auto-pause on poor conditions
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Unity 2022.3 LTS or 6
@@ -117,7 +117,7 @@ RunnAR transforms outdoor spaces into competitive orienteering courses using aug
    - Build and Run to connected iPhone
    - Test outdoors for GPS accuracy
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 RunnAR/
@@ -137,7 +137,7 @@ RunnAR/
 └── README.md
 ```
 
-## 🎯 Development Roadmap
+## Development Roadmap
 
 ### Phase 1: MVP (Complete)
 - [x] Project setup with Lightship ARDK
@@ -167,7 +167,7 @@ RunnAR/
 - [ ] Performance optimizations
 - [ ] Advanced terrain detection
 
-## 🎓 Educational Context
+## Educational Context
 
 This project was developed as part of the [Gauntlet AI](https://gauntletai.com) cohort program, designed to showcase innovative AR/AI applications while honoring JROTC training principles. The game serves as both a technical demonstration and a team-building activity for hiring partners.
 
@@ -178,7 +178,7 @@ This project was developed as part of the [Gauntlet AI](https://gauntletai.com) 
 - Mobile game optimization
 - JROTC leadership and navigation skills
 
-## 🤝 Contributing
+## Contributing
 
 This project is primarily for demonstration and educational purposes. For suggestions or collaboration opportunities:
 
@@ -188,23 +188,23 @@ This project is primarily for demonstration and educational purposes. For sugges
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙋‍♂️ About
+## About
 
 **Created by Patrick Skinner** | PSkinnerTech
 
-A Gauntlet AI project pushing the boundaries of AR gaming and practical navigation training.
+A Gauntlet AI project - pushing the boundaries of what an AI Engineer is capable of.
 
 ### Connect
-- 🐦 Twitter: [@PSkinnerTech](https://x.com/PSkinnerTech)
-- 💼 LinkedIn: [Patrick A. Skinner](https://linkedin.com/in/patrickaskinner/)
-- 🌐 Website: [patrickskinner.tech](https://patrickskinner.tech)
-- 🏢 Gauntlet AI: [@joingauntletai](https://x.com/joingauntletai) | [gauntletai.com](https://gauntletai.com)
+- Twitter: [@PSkinnerTech](https://x.com/PSkinnerTech)
+- LinkedIn: [Patrick A. Skinner](https://linkedin.com/in/patrickaskinner/)
+- Website: [patrickskinner.tech](https://patrickskinner.tech)
+- Gauntlet AI: [@joingauntletai](https://x.com/joingauntletai) | [gauntletai.com](https://gauntletai.com)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Niantic Lightship Team** for ARDK documentation and samples
 - **Gauntlet AI Cohort** for testing and feedback
