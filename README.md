@@ -145,21 +145,21 @@ RunnAR/
 - [x] GitHub repository setup
 
 ### Phase 2: Core Mechanics (In Progress)
-- [ ] Checkpoint spawning with persistent anchors
-- [ ] Navigation HUD (compass + mini-map)
-- [ ] Timing and scoring system
-- [ ] Collection mechanics with code verification
-- [ ] Personal best tracking
+- [x] Checkpoint spawning with persistent anchors
+- [x] Navigation HUD (compass + mini-map)
+- [x] Timing and scoring system
+- [x] Collection mechanics with code verification
+- [x] Personal best tracking
 
 ### Phase 3: Polish & Testing
-- [ ] Device testing and optimization
+- [x] Device testing and optimization
 - [ ] Safety features and boundary detection
 - [ ] Ghost replay system
 - [ ] UI/UX improvements
 
 ### Phase 4: Multiplayer Extension
 - [ ] 1v1 shared AR implementation
-- [ ] Recapture mechanics
+- [x] Recapture mechanics
 - [ ] Lobby and matchmaking
 
 ### Phase 5: Platform Expansion
